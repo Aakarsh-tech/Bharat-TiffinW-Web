@@ -3,6 +3,8 @@ import React from 'react'
 import Navbar from './components/Navbar'
 import Banner from './components/Banner'
 import Lower from './components/Lower'
+import Upper from './components/Upper'
+import Footer from './components/Footer'
 
 const App = () => {
   return (
@@ -17,8 +19,13 @@ const App = () => {
       
       <div className='w-full'>
         <Lower />
+        <Upper />
       </div>
       </main>
+
+      <div className="mt-auto">
+       <Footer />
+      </div>
     </div>
  
    
