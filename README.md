@@ -1,12 +1,16 @@
-# React + Vite
+Bharat Tiffin is a modern web-based admin panel designed to manage meal services efficiently. Built using Vite, React, Tailwind CSS, and the sleek shadcn/ui component library, this project delivers a fast, responsive, and visually clean experience for managing daily tiffin operations.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This web app is crafted to streamline operations for tiffin/dining businesses by handling everything from user records to meal tracking and billing – all in one place.
 
-Currently, two official plugins are available:
+🚀 Tech Stack:
+⚡ Vite – Fast build tool and development environment
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+⚛️ React.js – Component-based frontend framework
 
-## Expanding the ESLint configuration
+🎨 Tailwind CSS – Utility-first styling for modern UI
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+🧩 shadcn/ui – Accessible, stylish UI components
+
+🌐 Deployed Live – Easily accessible via browser
+
+🔗 Live Demo: [https://bharat-tiffin-w-web.vercel.app/]
